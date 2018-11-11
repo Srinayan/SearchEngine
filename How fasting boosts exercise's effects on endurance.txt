@@ -1,0 +1,43 @@
+Intermittent fasting, such as eating only on alternate days, might enhance the ability of aerobic exercise to increase endurance because the body switches to using fats and ketones as a source of fuel for muscles instead of carbohydrates.
+Research shows the effects of intermittent fasting on endurance.
+
+This was the conclusion that researchers came to after studying the effect in mice with such a regimen for a limited period of time.
+Their study is to be published in the FASEB Journal.
+The findings suggest that three meals per day and snacking may not be the only eating habit for people who engage in endurance sports to reach peak performance and maintain good health.
+
+"Emerging evidence," explains senior study author Dr. Mark Mattson, from the Laboratory of
+Neurosciences in the National Institute on Aging in Baltimore, MD, "suggests that [intermittent
+dietary energy restriction] might improve overall health and reduce risk factors for diabetes and cardiovascular disease in humans."
+He and his team say that their findings propose that a similar pattern of eating and fasting may boost the beneficial effect of moderate aerobic exercise on endurance, and that it should be studied further.
+
+ Food deprivation, exercise, and endurance
+For the study, the team put mice into four groups and observed them for 2 months as they went through the following exercise and eating patterns:
+
+The control (CTRL) mice did not exercise at all and could eat as much food as they wanted every day.
+Like the CTRL mice, the exercise (EX) mice could eat as much daily food as they wanted, but they also ran on a treadmill for 45 minutes each day.
+
+
+The "alternate day food deprivation" (ADF) mice were only fed a fixed amount on every other day and did not exercise at all.
+The EXADF mice were restricted to the ADF eating pattern but also exercised every day on a treadmill for 45 minutes.
+
+How intermittent fasting can increase weight loss
+Learn how researchers explored the chemical pathways that might be involved in intermittent fasting without restricting overall calorie intake.
+Read now
+
+As expected, the results showed that the mice that exercised daily (the EX and EXADF groups) performed better in endurance tests than the two groups that did not exercise at all (CTRL and ADF).
+However, the ADF mice that exercised daily (the EXADF group) had better endurance — that is, they could run farther and last longer — than the daily exercise mice that were allowed to eat what they wanted (the EX group).
+
+The researchers also found that the mice on ADF were able to maintain their body weight and had better glucose tolerance, "regardless of whether they exercised or not."
+They note that, following glucose metabolism, although the EX group's glucose levels recovered at a faster rate than the CTRL group's, the glucose levels of the ADF and EXADF groups recovered even faster.
+
+Shifted fuel preference
+The results showed that the effect of ADF was to "shift fuel preference" in muscles toward fatty acids and away from carbohydrates, and it also "enhanced endurance" in the ADF mice that exercised (EXADF).
+The researchers also found that the enhanced endurance performance did not come from changes to volume of oxygen usage, or VO2max — a way of measuring the amount of energy used during exercise — as the rise in this measure was the same in both exercise groups (EX and EXADF).
+Instead, the increased endurance in the exercising ADF mice (EXADF group) compared with the unrestricted eating exercising mice (EX group) came from a reduction in their respiratory exchange ratio, or the ratio of CO2 produced to O2 consumed.
+This, note the authors, suggests that ADF caused the fuel source to switch from carbohydrates to fats.
+
+The scientists also observed that ADF affects the liver differently to exercise. For example, ADF alters gene expression that regulates "lipid metabolism and cell growth," whereas exercise changes gene expression that alters "calcium signaling and stress adaptation."
+The findings support the idea that evolutionary pressure has caused the body to optimize and perform extremely well when food is scarce. Dr. Thoru Pederson, Editor-in-Chief of the FASEB Journal, comments on this.
+
+"This study reminds us of the nexus between our own hunter-gatherer metabolism, still operative, and modern habits, with the findings from this animal system likely transferable to us to a considerable degree."
+Dr. Thoru Pederson

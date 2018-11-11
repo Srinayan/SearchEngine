@@ -1,0 +1,32 @@
+Scientists have developed a new vaccine that — in conjunction with existing therapies — can not only treat aggressive melanoma, but also prevent its recurrence.
+Have researchers finally found the best vaccine against aggressive melanoma?
+
+Researchers from the Scripps Research Institute in San Diego, CA, recently worked with experts from other institutions to develop a vaccine that would be effective against melanoma (a type of skin cancer) when administered in conjunction with other therapies.
+According to Prof. Dale Boger, who co-led the research with Nobel laureate Bruce Beutler, "This co-therapy produced a complete response — a curative response — in the treatment of melanoma."
+These promising results are reported in a study paper now published in the journal PNAS.
+
+Experimental approach fully successful
+The researchers tested three different therapy options in a mouse model of aggressive melanoma. All of the mice received a type of cancer immunotherapy known as anti-PD-L1, but in addition to this, they also received different vaccine variants.
+Prof. Boger and team split the mice into three groups: one group had the cancer vaccine, another group had the vaccine plus a molecule called Diprovocim, and the third group had the cancer vaccine and another adjuvant: a chemical known as alum.
+
+Melanoma: Immunotherapy for brain metastases 'doubles survival'
+Researchers register fresh successes for immunotherapy against metastatic melanoma.
+Read now
+
+Diprovocim is an adjuvant compound that boosts therapy by reinforcing the immune response. This compound is particularly attractive to researchers developing new therapies, because it is easy to synthesize and modify.
+
+The researchers found that the eight mice that received the vaccine plus Diprovocim treatment in addition to the anti-PD-L1 therapy had a 100 percent survival rate over 54 days.
+In comparison, the rodents that received the immunotherapy plus the vaccine only did not survive. Those that received anti-PD-L1 plus the vaccine with alum saw a 25 percent survival rate over the same period.
+"It was exciting to see the vaccine working simultaneously with a cancer immunotherapy like anti-PD-L1," Prof. Boger says.
+
+ Vaccine also prevents recurrence
+This, however, is not the only reason why the researchers were excited. In fact, the experimental vaccine has another positive effect — namely, protecting the body against tumor recurrence.
+
+"Just as a vaccine can train the body to fight off external pathogens, this vaccine trains the immune system to go after the tumor," says Prof. Boger.
+The scientists found that, when they tried to reintroduce melanoma tumors in the mice in the second experimental group, "it wouldn't take," as Prof. Boger puts it. "The animal is already vaccinated against it," he explains.
+When they conducted more experiments in the laboratory, the researchers were able to establish that Diprovocim boosts the immune response by "prompting" the immune system to produce tumor-infiltrating leukocytes, a type of cell that attacks and eliminates cancer tumors.
+Prof. Boger and team also note that the vaccine plus Diprovocim can be delivered quite easily, since they do not have to be injected directly into a main cancer tumor in order to be effective.
+
+ Instead, the injection can be delivered intramuscularly. It is given in two doses inoculated within 7 days from each other.
+In the future, the researchers want to keep experimenting with this vaccine and confirm whether it would be effective when delivered alongside other types of cancer therapy.
+The two leading scientists involved in the recent study manage Tollbridge Therapeutics, a medical research company that holds the patent for Diprovocim.

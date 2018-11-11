@@ -1,0 +1,38 @@
+It is still unclear what causes multiple sclerosis, but new research closes in on the faulty immune system mechanisms involved in the development of this condition.
+New research has identified another type of immune cell that may play a role in MS.
+
+Multiple sclerosis (MS), which is an autoimmune disease, causes the immune system to mistakenly attack myelin.
+Myelin is the substance that coats axons, which are the projections that allow neurons to connect and transmit information.
+This process is known as demyelination, and it affects the correct functioning of the central nervous system.
+The condition is characterized by problems with balance and coordination, as well as with eyesight, to name but a few of its effects. In the United States, MS affects 250,000–350,000 people.
+
+Researchers still don't know for sure what causes MS, but little by little, they are uncovering the mechanisms at play and revealing more of the cellular culprits involved.
+Now, neurologist Roland Martin and immunologist Mireia Sospedra — at the University of Zurich and University Hospital Zurich, both in Switzerland — and colleagues have shown that a type of immune cell called B cells are key to the autoimmune reactions that characterize MS.
+In a study whose results are now published in the journal Cell, the scientists explain that B cells influence the activity of another type of immune cell, T cells, which then cause inflammation.
+
+"We were able to show for the first time that certain B cells — the cells of the immune system that produce antibodies — activate the specific T cells that cause inflammation in the brain and nerve cell lesions."
+Roland Martin
+
+ B cells influence T cells
+Studies into MS will tend to focus on the role played by T cells in the development of this condition, since T cells are tasked with triggering an appropriate immune response once they detect the presence of pathogens.
+
+When T cells malfunction and mistake healthy cells in the body for pathogens, this causes harmful lesions and inflammation, associated with autoimmune diseases such as MS.
+
+MS: New drug proven to slow brain shrinkage
+Will this new drug vastly improve MS treatment?
+Read now
+
+Martin and colleagues, however, found that the T cells may actually be mistakenly activated by other specialized immune cells: the B cells.
+This became apparent to the researchers after they observed the effects of certain drugs used to treat MS.
+Martin says, "A class of MS drugs called Rituximab and Ocrelizumab led us to believe that B cells also played an important part in the pathogenesis of the disease."
+These drugs, the authors note, halt brain inflammation by removing B cells, which suggests that these immune cells are ultimately responsible for the T cells' activity.
+
+
+A chain of reactions
+In order to better understand the role played by B cells in inflammation, the researchers analyzed blood samples from people with MS through an experimental in vitro method.
+They noticed that B cells were interacting with specialized T cells, boosting their activity, and influencing them to divide more — thus feeding their attack cycle.
+It became clear that B cells were the cause of T cell activity because, when they eliminated the former, the latter stopped proliferating.
+"This means that we can now explain the previously unclear mechanism of these MS drugs," explains Martin.
+The investigators also note that the activated T cells they studied in the blood samples include the population of T cells that are active in brain inflammation related to MS.
+Martin and his team suggest that the T cells are able to read both the proteins released by B cells and recognize the nerve cells in the brain. The scientists say that T cells are first activated in the peripheral blood, only to migrate to the brain, where they end up attacking myelin.
+"Our findings not only explain how new MS drugs take effect, but also pave the way for novel approaches in basic research and therapy for MS," says Martin.
